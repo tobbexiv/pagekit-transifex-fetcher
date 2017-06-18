@@ -1,0 +1,21 @@
+{
+    "name": "tobbe/transifex-fetcher",
+    "module": "tobbe/transifex-fetcher",
+    "version": "1.0.0",
+    "type": "pagekit-extension",
+    "title": "Fetch translations from transifex",
+    "description": "Makes it possible to fetch translations from transifex using the pagekit console. Should only be used in development environments!",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tobbe",
+            "email": "contact@tobbexiv.de",
+            "homepage": "https://github.com/tobbexiv/pagekit-transifex-fetch"
+        }
+    ],
+    "extra": {
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    }
+}
